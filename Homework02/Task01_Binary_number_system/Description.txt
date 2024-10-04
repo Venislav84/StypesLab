@@ -1,0 +1,4 @@
+Направете C++ функции, които приемат като параметър - цяло десетично число в двоична бройна система и извеждат в stout цифрите му в: BIN, OCT и HEX;
+void dec2bin(int number);
+void dec2oct(int number);
+void dec2hex(int number);
